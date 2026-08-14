@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /soumission-demolition/
+
+Sitemap: https://prix-demolition.ca/sitemap-index.xml
